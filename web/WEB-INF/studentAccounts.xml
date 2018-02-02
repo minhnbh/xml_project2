@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<students>
+    <student id="SE61805" class="SE1071">
+        <lastname>
+            Nguyen
+        </lastname>
+        <middlename>
+            Bui Hoang
+        </middlename>
+        <firstname>
+            Minh
+        </firstname>
+        <sex>
+            1
+        </sex>
+        <password>
+            123456
+        </password>
+        <address>
+            378 Vinh Vien
+        </address>
+        <status>
+            studying
+        </status>
+    </student>
+    <student id="SE61899" class="SE1073">
+        <lastname>
+            Nguyen
+        </lastname>
+        <middlename>
+            Huynh
+        </middlename>
+        <firstname>
+            Tai
+        </firstname>
+        <sex>
+            2
+        </sex>
+        <password>
+            456789
+        </password>
+        <address>
+            Cam Ranh, Khanh Hoa
+        </address>
+        <status>
+            studying
+        </status>
+    </student>
+    <student id="SE61816" class="SE1073">
+        <lastname>
+            Hoang
+        </lastname>
+        <middlename>
+            Quoc
+        </middlename>
+        <firstname>
+            Huynh
+        </firstname>
+        <sex>
+            1
+        </sex>
+        <password>
+            123456
+        </password>
+        <address>
+            Loc Bac, Bao Loc, Lam Dong
+        </address>
+        <status>
+            studying
+        </status>
+    </student>
+</students>

@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 20, 2018, 4:45:22 PM
+    Author     : MinhNBHSE61805
+*/
+
+.product_row {
+    display: inline-flex; 
+    padding: 10px;
+    /*border: solid 1px;*/
+}
+
+.product_row_heading {
+    border: solid 1px;
+    font-weight: bold;
+    background-color: lightgray;
+    color: black;
+    border: solid 1px lightgray;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.product_row_heading h3 {
+    margin: 15px
+}
+
+.product {
+    width: 20%;
+    float: left;
+    clear: both;
+    padding: 10px;
+    /*border: solid 1px black;*/
+    height: auto;
+}
+
+.product_title {
+    height: 60px;
+    overflow: hidden
+}
+
+.product_price {
+    color: red
+}
+
+.product_image {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 160px;
+}
+
+.product_image img {
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    border: solid 2px lightgray;
+    margin-top: 15px;
+}

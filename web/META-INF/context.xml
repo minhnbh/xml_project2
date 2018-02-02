@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/XMLProject">
+    <Resource name="review" type="javax.sql.DataSource" auth="Container"
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            url="jdbc:sqlserver://localhost:1433;databaseName=SE1071;instanceName=SQLEXPRESS" 
+            username="sa" password="29115296" />
+</Context>
